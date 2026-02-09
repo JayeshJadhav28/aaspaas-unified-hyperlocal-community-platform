@@ -20,8 +20,11 @@ Tier-2 and Tier-3 communities primarily depend on fragmented WhatsApp groups and
 * [Key Features](#-key-features)
 * [Tech Stack](#-tech-stack-planned)
 * [Workflow](#-workflow)
+* [Product Flowchart](#-product-flowchart)
 * [Impact](#-impact)
 * [Business Model](#-business-model)
+* [Pitch Deck](#-pitch-deck)
+* [Demo Video](#-demo-video)
 * [Roadmap](#-roadmap)
 * [Team](#-team)
 * [License](#-license)
@@ -95,6 +98,14 @@ The platform transforms informal trust into a **structured, digital-first local 
 
 ---
 
+## 🔄 Product Flowchart
+
+> Visual workflow of platform operations
+
+![Aaspaas Flowchart](./flowchart/aaspaas-flowchart.png)
+
+---
+
 ## 🌍 Impact
 
 - 🤝 Strengthens neighborhood trust  
@@ -110,6 +121,22 @@ The platform transforms informal trust into a **structured, digital-first local 
 - Premium listing subscriptions  
 - Service transaction commissions  
 - Government & NGO collaborations  
+
+---
+
+## 📊 Pitch Deck
+
+Access the complete presentation:
+
+👉 [View Pitch Deck](./pitch-deck/Aaspaas_Pitch_Deck_WIC.pdf)
+
+---
+
+## 🎥 Demo Video
+
+Watch the project walkthrough:
+
+▶️ [View Demo Video](https://your-video-link)
 
 ---
 
