@@ -102,7 +102,7 @@ The platform transforms informal trust into a **structured, digital-first local 
 
 > Visual workflow of platform operations
 
-![Aaspaas Flowchart](./aaspaas-flowchart.png)
+![Aaspaas Flowchart](./aaspaas-flowchart.jpg)
 
 ---
 
