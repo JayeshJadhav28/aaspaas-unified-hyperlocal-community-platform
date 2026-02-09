@@ -3,6 +3,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Hyperlocal%20Community-purple)
 
+![Aaspaas Banner](./aaspaas-banner.png)
+
+
 # 🧭 Aaspaas — Unified Hyperlocal Community Platform
 
 ## 📖 Introduction
