@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/Status-Prototype%20Phase-blue)
+![Hackathon](https://img.shields.io/badge/Hackathon-Walchand%20Imagine%20Cup-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Hyperlocal%20Community-purple)
+
 # 🧭 Aaspaas — Unified Hyperlocal Community Platform
 
 ## 📖 Introduction
